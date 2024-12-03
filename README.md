@@ -21,7 +21,7 @@ pip install open3d
 
 
 
-# Image
+# Video
 https://github.com/user-attachments/assets/d2642a02-ddaf-459a-b19a-32b8e0720770
 
 https://github.com/user-attachments/assets/2cbffbdf-7834-4d37-96f8-61e9e89ad6d9
