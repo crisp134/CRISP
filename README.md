@@ -2,9 +2,9 @@
 ![image](https://github.com/user-attachments/assets/4ee3e6e2-7d92-489d-90a8-63b200f00f00)
 
 
-
+# Installation Guide
 conda create -n crisp python=3.8\
-conda activate crips\
+conda activate crips
 
 conda install pytorch==1.8.0 torchvision==0.9.0 cudatoolkit=10.2 -c pytorch\
 pip install matplotlib\
@@ -13,7 +13,7 @@ pip install lpips\
 pip install piqa==1.1.8\
 pip install tensorboard\
 pip install ConfigArgParse\
-pip install open3d\
+pip install open3d
 
 
 
